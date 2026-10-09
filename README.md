@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Anbu Kavin 👋
 
-<!--
-**anbukaving2025cse-cpu/anbukaving2025cse-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
+💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student interested in technology, problem-solving, and software development. I'm focused on strengthening my technical foundation and working towards building meaningful software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* 🎓 Pursuing Computer Science Engineering
+* 💡 Interested in software development and emerging technologies
+* 🌱 Continuously learning and improving my technical skills
+* 🎯 Aspiring to build a career in the IT industry
+
+## What You'll Find Here
+
+* 📚 Learning resources and academic materials
+* 💻 Programming practice and technical exploration
+* 🚀 Future projects as I continue my development journey
+
+## Current Focus
+
+Building a strong foundation in computer science, exploring software development, and preparing to create my first project.
+
+---
+
+*Learning, growing, and building — one step at a time.*
